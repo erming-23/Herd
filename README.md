@@ -192,4 +192,4 @@ This repository serves as the official landing page for Herd. The software is di
 **Get the most recent version of Herd today!**
 
 ---
-**Last updated:** 2026-11-08 16:29:43 UTC
+**Last updated:** 2026-11-08 20:56:58 UTC
